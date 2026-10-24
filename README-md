@@ -1,0 +1,112 @@
+# SCORVE — Luxury Fashion Experience
+
+SCORVE is a modern luxury fashion website designed to deliver an elegant and stylish online shopping experience. Built with a premium black and gold visual identity, the website brings together fashion collections, luxury accessories, and refined design.
+
+The project focuses on responsive layouts, interactive product browsing, and a visually engaging fashion experience across desktop and mobile devices.
+
+## About the Project
+
+SCORVE is designed for users who appreciate modern fashion, timeless elegance, and premium aesthetics. The website combines a sophisticated interface with useful shopping features to make exploring collections simple and enjoyable.
+
+## Key Features
+
+### 1. Home Page
+
+- Luxury-themed landing page
+- Hero section with fashion visuals
+- New Collection and Most Wanted sections
+- Explore by Video section
+- Navigation to different website pages
+
+### 2. Product Collection
+
+- Dedicated product listing page
+- Multiple fashion and lifestyle categories
+- Product cards with images, names, and prices
+- Search products by keyword
+- Filter products by category, gender, and colour
+- Sort products by price from low to high or high to low
+- Clear Filters option
+
+### 3. Fashion Categories
+
+- Old Money Casual Outfits
+- Luxury Dresses
+- Perfumes
+- Bags
+- Jewellery
+
+### 4. Explore by Video
+
+- Fashion videos showcasing collections
+- Video controls for browsing visual content
+- Links to explore and shop products
+
+### 5. Contact Page
+
+- Dedicated contact page
+- Easy navigation between website sections
+
+### 6. Responsive Design
+
+- Desktop and mobile-friendly layouts
+- Responsive navigation menu
+- Adaptable product and video sections
+
+## Technologies Used
+
+- **HTML5** — Website structure and content
+- **CSS3** — Styling, layouts, animations, and responsive design
+- **JavaScript** — Product rendering, search, filtering, sorting, and interactive elements
+
+## Design Concept
+
+SCORVE follows a luxury-inspired visual direction using black, gold, and complementary neutral tones. The design aims to create a sophisticated fashion identity with clean layouts, elegant typography, and visually focused product presentation.
+
+## Project Structure
+
+```text
+SCORVE/
+├── index.html
+├── product.html
+├── contact.html
+├── style.css
+├── product.css
+├── product.js
+├── script.js
+├── images/
+└── videos/
+```
+
+*Note: The structure above represents the main files and folders. Update it if your actual project structure differs.*
+
+## Getting Started
+
+1. Clone or download the repository.
+2. Open the project folder in your code editor.
+3. Ensure the image and video files are placed in their correct folders.
+4. Open `index.html` in a browser to explore the website.
+
+## Future Enhancements
+
+- Product detail pages
+- Shopping cart and wishlist
+- User authentication
+- Online payment integration
+- AI-powered fashion recommendations
+- AI stylist for personalised outfit suggestions
+- Backend integration and database support
+
+## Live Demo
+
+Add your deployed GitHub Pages URL here.
+
+## Author
+
+**Sreelekshmi S**
+
+BSc Computer Science | Web Development
+
+## License
+
+This project is created for educational and portfolio purposes.
